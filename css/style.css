@@ -1,0 +1,30 @@
+body {
+    margin:0 auto;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+p {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+td, th {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    background-color: #ffffff;
+}
+
+.smaller {
+    font-size: 11px;
+}
+
+.bigger {
+    font-size: 13px;
+}
+
+#wrapper {
+    text-align: left;
+    width: 930px;
+    margin: 0 auto;
+}
